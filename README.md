@@ -3,6 +3,9 @@
 **📊 Project Overview**
 A comprehensive dual-dashboard Tableau visualization system designed for advanced sales and customer analytics. This dynamic dashboard solution provides year-over-year comparisons, trend analysis, and actionable insights through interactive KPIs and visualizations. Built with multi-table data modeling, the dashboard offers real-time filtering capabilities and performance tracking across multiple business dimensions.
 
+<img width="599" height="395" alt="image" src="https://github.com/user-attachments/assets/fd8d77bc-511e-47b2-b9cd-ec8dafa65054" />
+
+
 **🎯 Objective**
 The primary objectives of this dashboard system are to:
 
